@@ -1,0 +1,16 @@
+Group Maker v1.0
+
+
+Usage:
+    - You will have to provide your own "names.txt" file.
+    - Run groupmaker.py to execute the program.
+
+"names.txt" Format:
+    - A single name on each line.
+    - No extra space at the start or end of the file.
+
+    Ex:
+        ---start of names.txt---
+        Test name 1
+        Test name 2
+        ---end of names.txt---
